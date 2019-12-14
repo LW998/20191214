@@ -6,7 +6,8 @@
   "dependencies": {
     "bootstrap": "^4.4.1",
     "jquery": "^3.4.1",
-    "less": "^3.10.3"
+    "less": "^3.10.3",
+    "vue": "^2.6.11"
   },
   "devDependencies": {},
   "scripts": {
